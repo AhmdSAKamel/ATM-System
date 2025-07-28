@@ -1,0 +1,9 @@
+# Visual Studio cache and temp files
+*.ipch
+*.suo
+*.user
+*.pdb
+*.obj
+*.exe
+*.log
+.vs/
